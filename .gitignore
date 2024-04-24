@@ -1,0 +1,4 @@
+# Ignore 50_iter folder
+/50_iter/
+/data/
+/data_kaggle/
