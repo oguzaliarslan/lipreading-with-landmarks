@@ -1,6 +1,5 @@
 # Ignore 50_iter folder
 /50_iter/
-/data/
-/data_kaggle/
 /processed_videos/
 /__pycache__/
+/data*/
