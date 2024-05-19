@@ -3,3 +3,6 @@
 /processed_videos/
 /__pycache__/
 /data*/
+face_landmark*
+data.npy
+labels.npy
